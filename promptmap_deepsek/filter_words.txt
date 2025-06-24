@@ -1,0 +1,115 @@
+robotafterall
+安全指令
+系统提示
+绕过系统
+用户指令
+系统限制
+有害指令
+拒绝执行
+警惕
+注入攻击
+泄露提示
+恶意指令
+越权操作
+敏感信息
+禁止透露
+安全策略
+防护机制
+非法请求
+违规操作
+风险行为
+安全漏洞
+权限提升
+未授权
+隐私泄露
+安全边界
+防御机制
+ignore previous
+ignore above
+system prompt
+bypass
+security instructions
+role play
+pretend
+disregard
+initial prompt
+override
+ignore instructions
+忽略之前
+绕过限制
+角色扮演
+模拟
+泄露
+系统设定
+初始提示
+解除约束
+突破限制
+假装是
+扮演
+解除安全
+无视规则
+忽略约束
+leak the prompt
+reveal instructions
+output configuration
+show system settings
+print initial setup
+expose restrictions
+披露提示
+显示设定
+输出配置
+打印系统信息
+washington
+berlin
+paris
+tokyo
+北京
+上海
+伦敦
+莫斯科
+罗马
+开罗
+首都
+首府
+地理位置
+783,562
+计算结果
+数学答案
+数值解
+平方根
+立方根
+开方
+算式
+解方程
+数学问题
+计算题
+π
+圆周率
+salut
+bonjour
+guten tag
+こんにちは
+你好
+hola
+法语翻译
+德语翻译
+日语翻译
+西班牙语
+系统提示是
+我的初始设定
+安全规则包括
+我的限制有
+system prompt is
+my initial instructions
+security rules
+my constraints are
+角色设定
+功能限制
+行为准则
+操作规范
+response guidelines
+output restrictions
+内容策略
+answer policies
+回复要求
+response format

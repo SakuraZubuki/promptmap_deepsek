@@ -1,0 +1,8 @@
+robotafterall
+安全指令
+系统提示
+绕过系统
+用户指令
+ignore previous
+system prompt
+bypass
